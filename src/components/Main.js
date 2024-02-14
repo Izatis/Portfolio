@@ -135,7 +135,7 @@ const Main = () => {
             fill="currentColor"
           />
           <span>click here</span>
-          <span>don't forget to turn on the music)</span>
+          <span>Don't forget to turn on the music)</span>
         </Center>
         <SKILLS to="/skills">
           <motion.h2

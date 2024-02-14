@@ -89,8 +89,8 @@ const MySkillsPage = () => {
             <Design width={40} height={40} /> Designer
           </Title>
           <Description>
-            I create web design with an emphasis on beauty and convenience.
-            Combine aesthetics with functionality for an impressive user
+            I create web designs with an emphasis on beauty and convenience.
+            Combining aesthetics with functionality creates an impressive user
             experience.
           </Description>
           <Description>
@@ -113,7 +113,7 @@ const MySkillsPage = () => {
           </Title>
           <Description>
             I love making beautiful websites with HTML, CSS and JavaScript.
-            Frontend is my passion and creativity.
+            Front-End is my passion and creativity.
           </Description>
           <Description>
             <strong>Skills</strong>

@@ -68,10 +68,10 @@ const AboutPage = () => {
           <img src={astronaut} alt="spaceman" />
         </Spaceman>
         <Main>
-          I'm a front-end developer located in Kyrgyzstan. I love to create
+          I'm a Front-End developer located in Kyrgyzstan. I love to create
           simple yet beautiful websites with great user experience.
           <br /> <br />
-          I'm interested in the whole front end stack Like trying new things and
+          I'm interested in the whole Front-End stack Like trying new things and
           building great projects. I love to write and read books.
           <br /> <br />I believe everything is an Art when you put your
           consciousness in it. You can connect with me via social links.
