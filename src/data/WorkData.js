@@ -12,8 +12,8 @@ export const Work = [
       "react-router-dom",
       "sass",
     ],
-    demo: "https://diary-izat.vercel.app/",
-    github: "https://github.com/Izatis/Diary.-It-academy-.git",
+    demo: "https://diary-eight-blush.vercel.app/",
+    github: "https://github.com/Izatis/Diary",
   },
   {
     id: 2,
@@ -21,8 +21,8 @@ export const Work = [
     description:
       "This site is a copy of the government website. There you can find detailed information about the state organization.",
     tags: ["HTML", "CSS", "SASS"],
-    demo: "https://gov-project.vercel.app/",
-    github: "https://github.com/Izatis/Gov-project.git",
+    demo: "https://government-website.netlify.app/",
+    github: "https://github.com/Izatis/Government-Website",
   },
   {
     id: 3,
@@ -43,8 +43,8 @@ export const Work = [
       "three",
       "typescript",
     ],
-    demo: "https://final-project-izat.vercel.app/",
-    github: "https://github.com/Izatis/Final-project.-It-academy-.git",
+    demo: "https://online-educational-platform.netlify.app/",
+    github: "https://github.com/Izatis/Online-Educational-Platform",
   },
   {
     id: 4,
@@ -62,11 +62,11 @@ export const Work = [
       "swiper",
     ],
     demo: "https://white-bird.vercel.app/",
-    github: "https://github.com/Izatis/White-bird.git",
+    github: "https://github.com/Izatis/White-Bird",
   },
   {
     id: 5,
-    name: "Royal",
+    name: "Brooklyn",
     description:
       "This one is made for a construction company. There you can see every floor, every room of the apartment and even a 3D playground and it is very convenient for the user.",
     tags: [
@@ -83,8 +83,8 @@ export const Work = [
       "sharp",
       "swiper",
     ],
-    demo: "https://brooklyn-five.vercel.app/",
-    github: "https://github.com/WhiteHanClean/royal.git",
+    demo: "https://brooklyn1.netlify.app/",
+    github: "https://github.com/Izatis/Brooklyn",
   },
   {
     id: 6,
@@ -100,8 +100,8 @@ export const Work = [
       "sass",
       "swiper",
     ],
-    demo: "https://auto-rosy-two.vercel.app/",
-    github: "https://github.com/moenemoema/auto.git",
+    demo: "https://trinity11.netlify.app/",
+    github: "https://github.com/Izatis/Trinity",
   },
   {
     id: 7,
@@ -120,8 +120,8 @@ export const Work = [
       "sharp",
       "swiper",
     ],
-    demo: "https://snow-flake-omega.vercel.app/",
-    github: "https://github.com/Izatis/Snow-Flake.git",
+    demo: "https://snow-flake.netlify.app/",
+    github: "https://github.com/Izatis/SnowFlake",
   },
   {
     id: 8,
@@ -141,8 +141,8 @@ export const Work = [
       "tailwindcss",
       "typescript",
     ],
-    demo: "zion-kohl.vercel.app/",
-    github: "https://github.com/Izatis/Zion.git",
+    demo: "https://zion11.netlify.app/",
+    github: "https://github.com/Izatis/Zion",
   },
   {
     id: 9,
@@ -150,7 +150,7 @@ export const Work = [
     description:
       "Mol Bulak is your reliable banking partner. Secure services, transparent tariffs, innovations. Discover a new level of financial comfort.",
     tags: ["html", "css", "sass", "webpack"],
-    demo: "",
-    github: "https://github.com/Izatis/Mol-bulak.git",
+    demo: "https://www.molbulak.ru/",
+    github: "https://github.com/Izatis/Mol-Bulak",
   },
 ];
