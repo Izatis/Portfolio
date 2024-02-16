@@ -157,7 +157,7 @@ export const Work = [
     id: 10,
     name: "Agro Deer",
     description:
-      "This site is designed to digitalize the agricultural industry. On this site you can find out about the varieties of plants, its properties, winter hardiness, yield, as well as the advantages of the variety of the species.",
+      "This site is designed to digitalize the agricultural industry. On this site you can learn about the varieties of the plant, its properties, hardiness, yield, as well as the benefits of species diversity. You can ask the experts a question. Currently, this site is successfully working for a private organization.",
     tags: ["HTML", "CSS", "JavaScript"],
     demo: "https://agro-deer.netlify.app/",
     github: "https://github.com/Izatis/Agro-Deer",
