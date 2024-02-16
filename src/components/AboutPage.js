@@ -7,6 +7,7 @@ import SocialIcons from "../subComponents/SocialIcons";
 import PowerButton from "../subComponents/PowerButton";
 import ParticleComponent from "../subComponents/ParticleComponent";
 import BigTitle from "../subComponents/BigTitlte";
+import { NavLink } from "react-router-dom";
 
 const Box = styled.div`
   background-color: ${(props) => props.theme.body};
@@ -60,7 +61,9 @@ const AboutPage = () => {
   return (
     <ThemeProvider theme={DarkTheme}>
       <Box>
-        <LogoComponent theme="dark" />
+        <NavLink to="/">
+          <LogoComponent theme="dark" />
+        </NavLink>
         <SocialIcons theme="dark" />
         <PowerButton />
         <ParticleComponent theme="dark" />

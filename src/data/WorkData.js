@@ -20,7 +20,7 @@ export const Work = [
     name: "Government website",
     description:
       "This site is a copy of the government website. There you can find detailed information about the state organization.",
-    tags: ["HTML", "CSS", "SASS"],
+    tags: ["HTML", "CSS", "SASS", "JavaScript"],
     demo: "https://government-website.netlify.app/",
     github: "https://github.com/Izatis/Government-Website",
   },
@@ -152,5 +152,14 @@ export const Work = [
     tags: ["html", "css", "sass", "webpack"],
     demo: "https://www.molbulak.ru/",
     github: "https://github.com/Izatis/Mol-Bulak",
+  },
+  {
+    id: 10,
+    name: "Agro Deer",
+    description:
+      "This site is designed to digitalize the agricultural industry. On this site you can find out about the varieties of plants, its properties, winter hardiness, yield, as well as the advantages of the variety of the species.",
+    tags: ["HTML", "CSS", "JavaScript"],
+    demo: "https://agro-deer.netlify.app/",
+    github: "https://github.com/Izatis/Agro-Deer",
   },
 ];
