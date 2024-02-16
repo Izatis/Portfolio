@@ -3,7 +3,7 @@ export const Work = [
     id: 1,
     name: "Diary",
     description:
-      "This site is designed to create events. There you can choose any picture to your liking.",
+      "The site is designed to create memories. Users can use the site as a personal diary. The site has implemented Pexels. That is, users can search for images and select them. They can also choose an emoji to suit their taste and set a specific date.",
     tags: [
       "@mui/material",
       "classnames",
